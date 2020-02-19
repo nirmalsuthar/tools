@@ -1,0 +1,2 @@
+https://www.cs.wcupa.edu/rkline/linux/bash-basics.html		#basics
+https://devhints.io/bash					#overview
